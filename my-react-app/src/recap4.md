@@ -9,4 +9,5 @@ children prop, will lead to compound components that uses context, composition, 
 - so context allows us to create a global state that any component can have access to, skipping thge componnets inthe middle
 
 - context; solves global/distant prop drilling
-- compound componnets; use context to solve local prop drilling 
+- compound componnets; use context to solve local prop drilling
+
